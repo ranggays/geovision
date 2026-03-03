@@ -1,0 +1,5 @@
+fastapi
+torch
+segmentation_models_pytorch
+uvicorn
+python-multipart

@@ -1,0 +1,6 @@
+model_detektif_satelit_v2.pth
+model_tata_kota_6_kelas.pth
+model_tata_kota_6_kelasV3.pth
+
+venv
+__pycache__
